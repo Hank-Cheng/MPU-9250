@@ -1,5 +1,8 @@
 MPU-9250
 ========
+使用程式：arduino
+
+使用說明：最常使用的是MPU9250_MS5637_AHRS_t3.ino檔案。使用每一個檔案都要增加quaternionFilters副程式
 
 Arduino sketch for MPU-9250 9 DoF sensor with AHRS sensor fusion
 
